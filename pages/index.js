@@ -19,13 +19,13 @@ export default function Home() {
         />
 
         {/* <!-- Google / Search Engine Tags --> */}
-        <meta itemprop="name" content="Wahyudi" />
-        <meta itemprop="author" content="Wahyudi" />
+        <meta itemProp="name" content="Wahyudi" />
+        <meta itemProp="author" content="Wahyudi" />
         <meta
-          itemprop="description"
+          itemProp="description"
           content="Wahyudi adalah seorang Web Developer yang tinggal di Makassar."
         />
-        <meta itemprop="image" content={thumbnailSEO} />
+        <meta itemProp="image" content={thumbnailSEO} />
 
         {/* <!-- Facebook Meta Tags --> */}
         <meta property="og:url" content="https://wahyudi.id" />

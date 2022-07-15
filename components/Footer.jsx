@@ -54,6 +54,7 @@ const Footer = () => {
           className="btn btn-ghost gap-2 btn-block mt-2"
           href={instagramLink}
           target="_blank"
+          rel="noopener noreferrer"
         >
           Made With
           <svg
