@@ -85,6 +85,9 @@ export default function Home() {
               alt="Latest Project"
               className="w-100 rounded-lg"
             />
+            <p className="text-center py-3">
+              Website mengirim anonymous message ke teman ataupun rekan kerja.
+            </p>
           </div>
         </div>
         <Footer />
