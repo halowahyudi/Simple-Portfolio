@@ -1,5 +1,5 @@
 const Footer = () => {
-  const instagramLink = "https://insagram.com/halowahyudi";
+  const instagramLink = "https://instagram.com/halowahyudi";
   const facebookLink = "https://fb.com/halowahyudi";
   const twitterLink = "https://twitter.com/halowahyudi";
 
